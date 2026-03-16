@@ -1,0 +1,63 @@
+Degree,Specialization,CGPA,JobRole
+B.Tech,Computer Science,8.5,Software Developer
+B.Tech,Computer Science,9.2,Software Developer
+B.Tech,Computer Science,7.8,Software Developer
+B.Tech,Computer Science,8.9,Software Developer
+B.Tech,Computer Science,7.2,Software Developer
+B.Tech,Information Technology,7.8,Web Developer
+B.Tech,Information Technology,8.1,Web Developer
+B.Tech,Information Technology,7.5,Web Developer
+B.Tech,Information Technology,6.8,Web Developer
+B.Tech,Information Technology,8.3,Web Developer
+B.Tech,Electronics Engineering,8.2,Embedded Systems Engineer
+B.Tech,Electronics Engineering,8.7,Embedded Systems Engineer
+B.Tech,Electronics Engineering,7.9,Embedded Systems Engineer
+B.Tech,Electronics Engineering,8.9,Embedded Systems Engineer
+B.Tech,Mechanical Engineering,7.5,Mechanical Design Engineer
+B.Tech,Mechanical Engineering,8.0,Mechanical Design Engineer
+B.Tech,Mechanical Engineering,7.8,Mechanical Design Engineer
+B.Tech,Civil Engineering,8.0,Civil Engineer
+B.Tech,Civil Engineering,8.5,Civil Engineer
+B.Tech,Civil Engineering,7.7,Civil Engineer
+B.Tech,Artificial Intelligence,9.2,Data Scientist
+B.Tech,Artificial Intelligence,8.8,Data Scientist
+B.Tech,Artificial Intelligence,9.5,Data Scientist
+B.Tech,Data Science,8.8,ML Engineer
+B.Tech,Data Science,8.5,ML Engineer
+B.Tech,Data Science,9.0,ML Engineer
+B.Sc,Computer Science,8.1,System Analyst
+B.Sc,Computer Science,7.9,System Analyst
+B.Sc,Computer Science,8.4,System Analyst
+B.Sc,Information Technology,7.6,Network Administrator
+B.Sc,Information Technology,8.0,Network Administrator
+B.Sc,Mathematics,8.3,Data Analyst
+B.Sc,Mathematics,7.8,Data Analyst
+B.Sc,Physics,7.9,Research Assistant
+B.Sc,Chemistry,8.4,Lab Technician
+B.Com,Accounting,8.0,Accountant
+B.Com,Accounting,8.2,Accountant
+B.Com,Finance,8.7,Financial Analyst
+B.Com,Finance,8.5,Financial Analyst
+BBA,Marketing,7.7,Marketing Executive
+BBA,Marketing,8.0,Marketing Executive
+BBA,HR,8.2,HR Manager
+BBA,HR,8.5,HR Manager
+BBA,Finance,9.1,Business Analyst
+BBA,Finance,8.8,Business Analyst
+M.Tech,Computer Science,9.0,Senior Software Engineer
+M.Tech,Computer Science,9.3,Senior Software Engineer
+M.Tech,Artificial Intelligence,9.3,Senior Data Scientist
+M.Tech,Artificial Intelligence,9.5,Senior Data Scientist
+MBA,Finance,8.8,Finance Manager
+MBA,Finance,9.0,Finance Manager
+MBA,Marketing,8.5,Marketing Manager
+MBA,Marketing,8.7,Marketing Manager
+MBA,HR,8.9,HR Director
+B.Tech,Computer Science,6.9,Junior Developer
+B.Tech,Computer Science,7.1,Junior Developer
+B.Tech,Information Technology,7.3,Frontend Developer
+B.Tech,Information Technology,7.6,Frontend Developer
+B.Tech,Mechanical Engineering,7.8,Manufacturing Engineer
+B.Tech,Civil Engineering,8.5,Structural Engineer
+B.Sc,Computer Science,7.4,Database Administrator
+B.Sc,Computer Science,7.8,Database Administrator
